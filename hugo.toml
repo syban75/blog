@@ -2,7 +2,12 @@ baseURL = "https://syban75.github.io/blog/"
 languageCode = "ko-kr"
 title = "잡학사전"
 
-theme = "PaperMod"
+theme = "hugo-book"
+
+[params]
+BookSection = "docs"
+mainSections = ["docs"]
 
 [pagination]
 pagerSize = 10
+
