@@ -1,0 +1,16 @@
+
+<div >
+
+<h1>최근 글</h1>
+
+<ul>
+{{ range first 10 (sort (where .Site.RegularPages "Section" "docs") "Date" "desc") }}
+<li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    ({{ .Date.Format "2006-01-02" }})
+</li>
+{{ end }}
+</ul>
+
+</div>
+

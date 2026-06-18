@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on 잡학사전</title>
-		<link>https://syban75.github.io/blog/tags/</link>
+		<link>http://localhost:1313/blog/tags/</link>
 		<description>Recent content in Tags on 잡학사전</description>
 		<generator>Hugo</generator>
 		<language>ko-kr</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Thu, 18 Jun 2026 11:36:24 +0900</lastBuildDate>
 		
-			<atom:link href="https://syban75.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>계란</title>
-				<link>https://syban75.github.io/blog/tags/%EA%B3%84%EB%9E%80/</link>
+				<link>http://localhost:1313/blog/tags/%EA%B3%84%EB%9E%80/</link>
 				<pubDate>Thu, 18 Jun 2026 11:36:24 +0900</pubDate>
-				<guid>https://syban75.github.io/blog/tags/%EA%B3%84%EB%9E%80/</guid>
+				<guid>http://localhost:1313/blog/tags/%EA%B3%84%EB%9E%80/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>스크램블에그</title>
-				<link>https://syban75.github.io/blog/tags/%EC%8A%A4%ED%81%AC%EB%9E%A8%EB%B8%94%EC%97%90%EA%B7%B8/</link>
+				<link>http://localhost:1313/blog/tags/%EC%8A%A4%ED%81%AC%EB%9E%A8%EB%B8%94%EC%97%90%EA%B7%B8/</link>
 				<pubDate>Thu, 18 Jun 2026 11:36:24 +0900</pubDate>
-				<guid>https://syban75.github.io/blog/tags/%EC%8A%A4%ED%81%AC%EB%9E%A8%EB%B8%94%EC%97%90%EA%B7%B8/</guid>
+				<guid>http://localhost:1313/blog/tags/%EC%8A%A4%ED%81%AC%EB%9E%A8%EB%B8%94%EC%97%90%EA%B7%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>조식</title>
-				<link>https://syban75.github.io/blog/tags/%EC%A1%B0%EC%8B%9D/</link>
+				<link>http://localhost:1313/blog/tags/%EC%A1%B0%EC%8B%9D/</link>
 				<pubDate>Thu, 18 Jun 2026 11:36:24 +0900</pubDate>
-				<guid>https://syban75.github.io/blog/tags/%EC%A1%B0%EC%8B%9D/</guid>
+				<guid>http://localhost:1313/blog/tags/%EC%A1%B0%EC%8B%9D/</guid>
 				<description></description>
 			</item>
 	</channel>

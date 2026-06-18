@@ -1,5 +1,5 @@
 baseURL = "https://syban75.github.io/blog/"
-languageCode = "ko-kr"
+locale = "ko-kr"
 title = "잡학사전"
 
 theme = "hugo-book"
@@ -7,6 +7,11 @@ theme = "hugo-book"
 [params]
 BookSection = "docs"
 mainSections = ["docs"]
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    lineNos = true
 
 [pagination]
 pagerSize = 10

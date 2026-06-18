@@ -2,4 +2,4 @@
 title: Home
 ---
 
-# Latest Posts
+{{< latest-posts >}}
