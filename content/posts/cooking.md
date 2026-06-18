@@ -1,6 +1,6 @@
 +++
 date = '2026-06-18T11:36:24+09:00'
-draft = true
+draft = false
 title = '스크램블 에그'
 +++
 
